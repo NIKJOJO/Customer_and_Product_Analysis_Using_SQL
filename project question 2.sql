@@ -11,7 +11,7 @@ GROUP by o.customerNumber)
 SELECT c.contactLastName, c.contactFirstName, c.city, c.country, pcte.profit_per_customer
 FROM profit_cte pcte
 JOIN customers c on pcte.customerNumber = c.customerNumber
-ORDER by pcte.profit_per_customer
+ORDER by pcte.profit_per_customer DESC
 LIMIT 5;
 
 ---- lowest five least-engaged customers
