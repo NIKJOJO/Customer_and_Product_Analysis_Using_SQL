@@ -7,7 +7,7 @@ Welcome to my project report, where I will analyze data from a [sales records da
 To gain a visual understanding of the database structure, refer to the [schema image](https://github.com/NIKJOJO/SQL_Project/blob/main/scale%20model%20cars%20database%20schema.png).
 
 ## 1: Optimizing Product Orders
-One crucial aspect of our business is determining which products to order more of and which ones to order less of. Through my analysis  ([Query1](%5BQuery1%5D%28https://github.com/NIKJOJO/SQL_Project/blob/main/project%20question%201.sql%29)), I have identified the top 10 products that we should consider ordering more of:
+One crucial aspect of our business is determining which products to order more of and which ones to order less of. Through my analysis  ([Query1](https://github.com/NIKJOJO/Customer_and_Product_Analysis_Using_SQL/blob/main/project%20question%201.sql)), I have identified the top 10 products that we should consider ordering more of:
 
 | Name                     | Type of Vehicle |
 | ------------------------ | --------------- |
