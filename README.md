@@ -22,7 +22,10 @@ One crucial aspect of our business is determining which products to order more o
 | Pont Yacht               | Ships           |
 | 1911 Ford Town Car       | Vintage Cars    |
 
-The list above displays high-demand products that meet two criteria: A) they are highly profitable, and B) they are close to being out of stock.
+The list above displays high-demand products that meet two criteria:   
+  
+  A) they are highly profitable  
+  B) they are close to being out of stock.  
 
 ## 2: Targeted Marketing and Communication Strategies
 Understanding customer behaviors and tailoring our marketing and communication strategies accordingly is crucial for success. I have identified a specific group of highly profitable customers [Query2](https://github.com/NIKJOJO/SQL_Project/blob/main/project%20question%202.sql), who should be our top priority for marketing efforts. Here are the top 5 VIP customers:
