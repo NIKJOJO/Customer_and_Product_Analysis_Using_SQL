@@ -2,7 +2,7 @@
 # SQL_Project: Analysis of Sales Records for Scale Model Cars
 
 ## Introduction
-Welcome to my project report, where I will analyze data from a [sales records database](https://github.com/NIKJOJO/SQL_Project/blob/main/stores.db) for scale model cars. My main objective is to extract valuable insights to support decision-making within our company. 
+Welcome to my project report, where I will analyze data from a [sales records database](https://github.com/NIKJOJO/SQL_Project/blob/main/stores.db) for scale model cars. My main objective is to extract valuable insights to support decision-making within the company. 
 
 To gain a visual understanding of the database structure, refer to the [schema image](https://github.com/NIKJOJO/SQL_Project/blob/main/scale%20model%20cars%20database%20schema.png).
 
